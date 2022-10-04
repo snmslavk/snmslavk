@@ -1,4 +1,7 @@
 ### Hi there 👋
+- The number of stars that I got on github
+
+![GitHub User's stars](https://img.shields.io/github/stars/snmslavk?style=for-the-badge)
 
 - My stackoverflow flair
 
@@ -7,6 +10,7 @@
 - I have one library with relatively many downloads (more than ~150 000) 
 
 ![Nuget](https://img.shields.io/nuget/dt/kafka-net-core?label=kafka-net-core&style=for-the-badge)
+
 
 <!--
 **snmslavk/snmslavk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
