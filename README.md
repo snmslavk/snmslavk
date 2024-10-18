@@ -1,15 +1,7 @@
- Hi there 👋
-- The number of stars that I got on github
-
-![GitHub User's stars](https://img.shields.io/github/stars/snmslavk?style=for-the-badge)
-
-- My stackoverflow flair
-
-<a href="https://stackoverflow.com/users/1801080/slava"><img src="https://stackoverflow.com/users/flair/1801080.png" width="208" height="58" alt="profile for slava at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for slava at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
-
-- I have one library with relatively many downloads ( ~200 000) 
-
-![Nuget](https://img.shields.io/nuget/dt/kafka-net-core?label=kafka-net-core&style=for-the-badge)
+ Hi there 👋, here are some numbers from my public activity outside of usual work
+- The number of stars that I got on github : ![GitHub User's stars](https://img.shields.io/github/stars/snmslavk)
+- Stackoverflow reputation points number : [~2000](https://stackoverflow.com/users/1801080/slava)
+- My library with the number of downloads : ![Nuget](https://img.shields.io/nuget/dt/kafka-net-core?label=kafka-net-core&style=for-the-badge)
 
 
 <!--
